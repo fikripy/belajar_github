@@ -7,5 +7,5 @@ print(c+d)
 e, f = 5, 6
 print(e + f)
 
-k=1
-print(k)
+L = 10
+print(L)

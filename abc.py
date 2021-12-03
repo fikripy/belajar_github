@@ -9,3 +9,7 @@ print(e + f)
 
 L = 10
 print(L)
+
+def fungsi(x, y):
+    return x +  y
+fungsi(3 + 4)
